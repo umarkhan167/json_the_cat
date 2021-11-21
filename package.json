@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/umarkhan167/json_the_cat#readme",
   "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3",
     "request": "^2.88.2"
   }
 }
